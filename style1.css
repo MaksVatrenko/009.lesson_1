@@ -1,0 +1,18 @@
+.page {
+}
+
+.page__container {
+    max-width: 1230px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.page__images {
+    display: flex;
+    flex-direction: column;
+}
+
+.page__image {
+    object-fit: cover;
+    width: 400px;
+}
